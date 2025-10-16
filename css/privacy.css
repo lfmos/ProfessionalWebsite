@@ -32,22 +32,10 @@ nav {
 }   
 
 h1 {
-    margin  : 1.3rem;
-    font-size: 2.3rem;
+    margin-top: 1rem
 }
 
-p { 
-       font-size: 1.3rem ;
+p {
+    font-size: 1.2rem;
+    margin: 1.5rem;
 }
-
-#demo {
-margin-top: 0.75rem;
-}
-
-h3 {
-    font-size: 2rem;
-    color: rgb(230, 84, 31);
-    margin: 3rem ;
-    text-align: center;
-}
-

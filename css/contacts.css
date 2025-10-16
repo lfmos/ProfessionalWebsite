@@ -6,7 +6,6 @@
     padding-top: 1rem;
 }
 
-
 #footer-nav ul {
     list-style: none;
     padding-left: 1rem;
@@ -17,37 +16,34 @@
     color: rgb(250, 134, 92);
     text-decoration: none;    
 }
-
 body {
     background-color: rgb(177, 173, 173);
-    
 }
 
 .nav-link {
     color: rgb(250, 134, 92);
 }
 
+p {
+    font-size: 1.2rem ;
+}
+
+
 nav {
     font-size: 1.2rem;
 }   
 
-h1 {
-    margin  : 1.3rem;
-    font-size: 2.3rem;
+
+/* Estilo para o botão "Enviar" */
+.btn-personalizado {
+    background-color: rgb(250, 134, 92) !important;
+        color: white !important; 
+    border: none !important;
 }
 
-p { 
-       font-size: 1.3rem ;
-}
-
-#demo {
-margin-top: 0.75rem;
-}
-
-h3 {
-    font-size: 2rem;
-    color: rgb(230, 84, 31);
-    margin: 3rem ;
-    text-align: center;
+/* Efeito de Hover (quando o mouse passa por cima) */
+.btn-personalizado:hover {
+    /* Escurece um pouco a cor quando o mouse passa por cima */
+    background-color: rgb(230, 84, 31) !important; 
 }
 

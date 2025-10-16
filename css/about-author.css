@@ -6,7 +6,6 @@
     padding-top: 1rem;
 }
 
-
 #footer-nav ul {
     list-style: none;
     padding-left: 1rem;
@@ -17,10 +16,8 @@
     color: rgb(250, 134, 92);
     text-decoration: none;    
 }
-
 body {
     background-color: rgb(177, 173, 173);
-    
 }
 
 .nav-link {
@@ -31,23 +28,7 @@ nav {
     font-size: 1.2rem;
 }   
 
-h1 {
-    margin  : 1.3rem;
+h1{
     font-size: 2.3rem;
-}
-
-p { 
-       font-size: 1.3rem ;
-}
-
-#demo {
-margin-top: 0.75rem;
-}
-
-h3 {
-    font-size: 2rem;
-    color: rgb(230, 84, 31);
-    margin: 3rem ;
-    text-align: center;
 }
 
